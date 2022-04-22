@@ -1,0 +1,19 @@
+html {
+    background: darkslateblue;
+    text-align: center;
+}
+
+
+.container {
+    position: relative;
+}
+
+.container>canvas {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+
+canvas {
+    background-color: black;
+}
